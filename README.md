@@ -1,10 +1,10 @@
 Netflix Data Analysis using SQL
 
-Project Overview
+Project Overview: 
 This project focuses on analyzing Netflix Movies and TV Shows data using SQL. The goal is to explore content trends, ratings, countries, genres, and release patterns to generate meaningful business insights.
 
 
-Dataset Information...
+Dataset Information: 
 The dataset contains 8,800+ Netflix titles with the following details:
 *Show ID
 *Type (Movie/TV Show)
@@ -18,11 +18,11 @@ The dataset contains 8,800+ Netflix titles with the following details:
 *Duration
 
  
-Dataset used...
+Dataset used: 
 Netflix Dataset (CSV)
 
 
-Data Cleaning Performed
+Data Cleaning Performed: 
 *Handled NULL values in director and country columns
 *Converted text dates into SQL date format
 *Cleaned duration column for numerical analysis
